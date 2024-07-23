@@ -1,5 +1,5 @@
 ## Hi there, My name is Nataliia!
-I am an aspiring systems analyst with an engineering background and over two years of experience in developing engineering systems. Currently, I am applying my theoretical knowledge in systems analysis in practice. 
+I am a systems analyst with an engineering background and over two years of experience in developing engineering systems. Currently, I am applying my theoretical knowledge in systems analysis in practice. 
 
 ## 🛠 Technical Stack
 *   Business Process Modeling: BPMN, UML
